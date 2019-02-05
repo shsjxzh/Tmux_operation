@@ -10,8 +10,8 @@ tmux detach <br/>
 crtl + b, then d <br/>
 
 ## attach a window
-tmux attach 
-tmux attach-session -t (num) 
+tmux attach <br/>
+tmux attach-session -t (num) <br/>
 
 ## show all the window
 tmux ls 
