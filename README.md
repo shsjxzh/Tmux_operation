@@ -2,12 +2,12 @@
 Record some frequently-used command
 
 ## create a window
-tmux 
-tmux new  
+tmux <br/>
+tmux new  <br/>
 
 ## detach from a window
-tmux detach 
-crtl + b, then d 
+tmux detach <br/>
+crtl + b, then d <br/>
 
 ## attach a window
 tmux attach 
