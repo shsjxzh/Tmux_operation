@@ -4,6 +4,7 @@ Record some frequently-used command
 ## create a window
 tmux <br/>
 tmux new  <br/>
+tmux new -s [name] <br/>
 
 ## detach from a window
 tmux detach <br/>
